@@ -1,3 +1,8 @@
-console.log("hello")
+let x = 6, y = 8, board = String();
 
-console.log("time to learn some git")
+for (;board.length < x;) {
+    board += " #"; // # # # #.... 
+}
+
+console.log(board)
+
