@@ -5,5 +5,7 @@ for (;board.length < x;) {
 }
 
 this finally works yippie
+
+hello peter
 console.log(board)
 
