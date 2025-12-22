@@ -4,7 +4,6 @@ for (;board.length < x;) {
     board += " #"; // # # # #.... 
 }
 
-
-this is what is going on
+hello world
 console.log(board)
 
